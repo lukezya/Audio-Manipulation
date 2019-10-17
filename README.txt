@@ -1,8 +1,3 @@
-# README for Assignment 5
-# 15 May 2018
-# Tony Guo
-# GXXHEN001
-
 -----------------------------------
 Files in this directory
 -----------------------------------
